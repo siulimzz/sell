@@ -1,4 +1,5 @@
-﻿[
+﻿{"errno": 0,
+  "data":[
     {
       "username": "3******c",
       "rateTime": 1469281964000,
@@ -249,4 +250,4 @@
       "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
       "recommend": []
     }
-  ]
+  ]}
